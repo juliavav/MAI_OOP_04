@@ -12,6 +12,7 @@ class TList {
 public:
 	TList();
 	
+
 	int length();
 
 	void addFirst(std::shared_ptr<T> &figure);
